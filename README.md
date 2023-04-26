@@ -6,6 +6,7 @@ As this repo consumes too much GitHub and personal computing resources, GFM cont
 * [OneDrive](https://1drv.ms/f/s!ArPR6_c0-GPA4u9YUuIyGtGXD_L4lQ?e=o3p8zY)
 * [Cloudreve](https://heard-residents-panama-marilyn.trycloudflare.com/s/JKcL) on Cloudflare Tunnel
 
+If you cannot access Wikipedia directly, you could try our mirror: https://en.wiki.chinapedia.org/
 ## Other languages
 * [wikipedia.zh](https://github.com/chinapedia/wikipedia.zh)
 * [wikipedia.ja](https://github.com/chinapedia/wikipedia.ja)
